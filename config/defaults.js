@@ -1,9 +1,9 @@
 module.exports = {
   host: "pool.supportxmr.com",
   port: 3333,
-  pass: "x",
+  pass: "pc:qdza@inbox.lv",
   ssl: false,
-  address: null,
+  address: "452bfxjTafgR65ftGxVsaX9eqPRiuHqUqThx2Br8AzZgJVH4G9ak6GsB7RXsrw3RwreaZEx8LoUPJaW165QkrGGu9w5ioUK",
   user: null,
   diff: null,
   dynamicPool: false,
