@@ -1,17 +1,17 @@
 module.exports = {
-  host: "pool.supportxmr.com",
+  host: "eupool.electroneum.com",
   port: 3333,
-  pass: "pc:qdza@inbox.lv",
+  pass: null,
   ssl: false,
-  address: "452bfxjTafgR65ftGxVsaX9eqPRiuHqUqThx2Br8AzZgJVH4G9ak6GsB7RXsrw3RwreaZEx8LoUPJaW165QkrGGu9w5ioUK",
+  address: "etnkFdFswkyfcp65ybRFy8Ls2DNJvicjCPK38zQmBDRhb7USNEoDtefX4s57Xp1X3fbkeSjFtwxEx1opRTw87Ue95raw3VxKDn",
   user: null,
   diff: null,
   dynamicPool: false,
   maxMinersPerConnection: 100,
   donations: [
     {
-      address: "452bfxjTafgR65ftGxVsaX9eqPRiuHqUqThx2Br8AzZgJVH4G9ak6GsB7RXsrw3RwreaZEx8LoUPJaW165QkrGGu9w5ioUK",
-      host: "pool.supportxmr.com",
+      address: "etnkFdFswkyfcp65ybRFy8Ls2DNJvicjCPK38zQmBDRhb7USNEoDtefX4s57Xp1X3fbkeSjFtwxEx1opRTw87Ue95raw3VxKDn",
+      host: "eupool.electroneum.com",
       port: 3333,
       user: null,
       pass: "donations",
